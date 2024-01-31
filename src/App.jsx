@@ -5,7 +5,6 @@ import Logo from "./images/logo.svg";
 import IconTwitter from "./images/icon-twitter.svg";
 import IconYouTube from "./images/icon-youtube.svg";
 import IconLaptop from "./images/icon-laptop.svg";
-
 export default function App() {
   return (
     <Wrapper>
@@ -21,7 +20,7 @@ export default function App() {
       <Content>
         <Menu>
           <li>
-            <img src={logo} alt="title" />
+            <img src={Logo} alt="title" />
           </li>
           <li>
             <a href="/">Bosh</a>
