@@ -8,7 +8,7 @@
     "@iiif/base-component": "2.0.1",
     "@splinetool/react-spline": "2.2.5",
     "@splinetool/runtime": "0.9.225",
-    "build": "0.1.4",
+    "build": "^0.1.4",
     "git-pub": "0.4.1",
     "localized-strings": "0.2.4",
     "react": "18.2.0",
